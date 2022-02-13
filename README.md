@@ -2,5 +2,5 @@
 
 ## Images
 
-- [NodeCG](nodecg/README.md)
-- [PHP](README.md)
+- [NodeCG](nodecg/)
+- [PHP](php/)
